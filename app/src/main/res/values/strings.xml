@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Birthday App</string>
+    <string name="happy_birthday">Happy Birthday!!</string>
+    <string name="clickMe">Click Me</string>
+    <string name="birthday_cake_Image">Birthday Cake</string>
+    <string name="much_blessings">Much Blessings</string>
+    <string name="more_years">Many More Years!</string>
+</resources>
